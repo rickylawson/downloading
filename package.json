@@ -1,0 +1,20 @@
+{
+  "name": "downloading",
+  "version": "0.0.1",
+  "description": "Progress bar file download.",
+  "keywords": [
+    "download",
+    "progress",
+    "downloading",
+    "gulfstream"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rickylawson/downloading.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rickylawson/downloading/issues"
+  },
+  "homepage": "https://gulfstream.to"
+}
